@@ -1,0 +1,26 @@
+{
+  "name": "cineb-api",
+  "version": "1.0.0",
+  "description": "This is a cineb.gg web scrapping project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rojankarki5656/Cineb-API.git"
+  },
+  "keywords": [
+    "Cineb",
+    "Api"
+  ],
+  "author": "Rojan Karki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rojankarki5656/Cineb-API/issues"
+  },
+  "homepage": "https://github.com/Rojankarki5656/Cineb-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
