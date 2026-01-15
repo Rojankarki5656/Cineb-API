@@ -1,28 +1,25 @@
 {
   "name": "cineb-api",
-  "version": "1.0.0",
-  "description": "This is a cineb.gg web scrapping project",
-  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
   "scripts": {
-    "dev": "nodemon index.js",
-    "test": "npm run dev"
+    "start": "bun run index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rojankarki5656/Cineb-API.git"
+  "devDependencies": {
+    "@types/bun": "latest"
   },
-  "keywords": [
-    "Cineb",
-    "Api"
-  ],
-  "author": "Rojan Karki",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rojankarki5656/Cineb-API/issues"
+  "peerDependencies": {
+    "typescript": "^5"
   },
-  "homepage": "https://github.com/Rojankarki5656/Cineb-API#readme",
   "dependencies": {
-    "express": "^5.2.1",
-    "nodemon": "^3.1.11"
+    "@hono/zod-openapi": "^1.2.0",
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "errors": "^0.3.0",
+    "figlet": "^1.9.4",
+    "hono": "^4.11.4",
+    "hono-rate-limiter": "^0.5.3",
+    "zod": "^4.3.5"
   }
 }

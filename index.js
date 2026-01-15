@@ -1,12 +1,11 @@
-const express = require('express');
+import app from './src/app.js';
+import { serve } from 'bun';
 
-const app = express();
-const PORT = process.env.PORT || 3000;
-
-app.get('/', (req, res) => {
-  res.send('Hello, World!');
+const port = process.env.PORT || 5000;
+const server = serve({
+  port,
+  fetch: app.fetch,
+  idleTimeout: 20,
 });
 
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
-});
+console.log(`server is running visit ${server.url}doc for docs`);
