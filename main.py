@@ -1,33 +1,27 @@
-"""Use the scraper straight from Python — no server needed.
+"""Start the IMDb Scraper API.
 
-    python main.py
+    python run.py            # http://localhost:8000
+    PORT=9000 python run.py  # another port
 
-Every function returns the same JSON the API does; results are written to
-output/*.json. See README.md → "Use it from Python" for the full function list.
+Then:  curl "http://localhost:8000/title/details?title_id=tt4154796"
 """
-import json
-import os
+import bottle
+from cheroot import wsgi
 
-from imdb.charts import get_chart
-from imdb.search import search_titles
-from imdb.title import get_title_details
-
-os.makedirs("output", exist_ok=True)
+import config
+import routes  # noqa: F401  (mounts the routes on bottle's default app)
 
 
-def save(name, data):
-    path = os.path.join("output", name)
-    with open(path, "w") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"saved {path}")
+def main():
+    app = bottle.default_app()
+    print(f"IMDb Scraper listening on http://localhost:{config.PORT}/")
+    print(f"Try:  curl \"http://localhost:{config.PORT}/title/details?title_id=tt4154796\"")
+    server = wsgi.Server(("0.0.0.0", config.PORT), app, server_name="imdb-scraper", numthreads=16)
+    try:
+        server.start()
+    except KeyboardInterrupt:
+        server.stop()
 
 
 if __name__ == "__main__":
-    # a tt-id or any imdb.com title link
-    save("title_tt4154796.json", get_title_details("tt4154796"))
-
-    # 50 titles per page, filter by type, genre and year
-    save("search_sci_fi_2019.json", search_titles(query="avengers", title_type="movie", start_year=2019))
-
-    # all 250 in one call
-    save("chart_top_movies.json", get_chart("top-movies"))
+    main()
