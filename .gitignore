@@ -1,3 +1,12 @@
-.venv
-__pycache
-imdb/__pycache
+.venv/
+__pycache__/
+imdb/__pycache__/
+.env
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
