@@ -8,36 +8,11 @@
   "country": "US",
   "count": 50,
   "pagination": {
-    "total": 51,
-    "next_cursor": "eyJlc1Rva2VuIjpbIjMyMDMyMTQiLCIzMjAzMjE0IiwidHQxMjU5ODY4MiJdLCJmaWx0ZXIiOiJ7XCJjb25zdHJhaW50c1wiOntcInJlbGVhc2VEYXRlQ29uc3RyYWludFwiOntcInJlbGVhc2VEYXRlUmFuZ2VcIjp7XCJzdGFydFwiOlwiMjAxOS0wMS0wMVwifX0sXCJ0aXRsZVRleHRDb25zdHJhaW50XCI6e1wic2VhcmNoVGVybVwiOlwiYXZlbmdlcnNcIn0sXCJ0aXRsZVR5cGVDb25zdHJhaW50XCI6e1wiYW55VGl0bGVUeXBlSWRzXCI6W1wibW92aWVcIixcInR2TW92aWVcIl19fSxcImxhbmd1YWdlXCI6XCJlbi1VU1wiLFwic29ydFwiOntcInNvcnRCeVwiOlwiUE9QVUxBUklUWVwiLFwic29ydE9yZGVyXCI6XCJBU0NcIn0sXCJyZXN1bHRJbmRleFwiOjQ5fSIsInNpZyI6IjZlM2EzNjE2MWM5OTBmN2VhYjFjZTMyYmU4NGEyNTU0NzRhYjNhNWY5NzdiNDFmOTJlN2U5ZTdhMzZkYTQ5ZGEifQ==",
+    "total": 52,
+    "next_cursor": "eyJlc1Rva2VuIjpbIjMwMDQ2NDEiLCIzMDA0NjQxIiwidHQyMTMwMjgyOCJdLCJmaWx0ZXIiOiJ7XCJjb25zdHJhaW50c1wiOntcInJlbGVhc2VEYXRlQ29uc3RyYWludFwiOntcInJlbGVhc2VEYXRlUmFuZ2VcIjp7XCJzdGFydFwiOlwiMjAxOS0wMS0wMVwifX0sXCJ0aXRsZVRleHRDb25zdHJhaW50XCI6e1wic2VhcmNoVGVybVwiOlwiYXZlbmdlcnNcIn0sXCJ0aXRsZVR5cGVDb25zdHJhaW50XCI6e1wiYW55VGl0bGVUeXBlSWRzXCI6W1wibW92aWVcIixcInR2TW92aWVcIl19fSxcImxhbmd1YWdlXCI6XCJlbi1VU1wiLFwic29ydFwiOntcInNvcnRCeVwiOlwiUE9QVUxBUklUWVwiLFwic29ydE9yZGVyXCI6XCJBU0NcIn0sXCJyZXN1bHRJbmRleFwiOjQ5fSIsInNpZyI6ImUzMWFhNmYzNTUzNTFmOGE4YzIxZjkxNzBhZGNkMGVhOWRkNjcxODUzYTUwZjdhZTQyYTk4OWRjODFmYjFlOWYifQ==",
     "has_more": true
   },
   "results": [
-    {
-      "id": "tt4154796",
-      "title": "Avengers: Endgame",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt4154796/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2019,
-      "end_year": null,
-      "runtime_minutes": 181,
-      "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "rating": {
-        "value": 8.4,
-        "vote_count": 1493713
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMzgwNTUzMTM0Nl5BMl5BanBnXkFtZTgwNTU0MTA4NzM@._V1_.jpg",
-        "width": 1402,
-        "height": 2048
-      }
-    },
     {
       "id": "tt21357150",
       "title": "Avengers: Doomsday",
@@ -50,15 +25,39 @@
       "runtime_minutes": 165,
       "plot": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know.",
       "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
+        "Action"
       ],
       "rating": null,
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BNGEwYWZkN2UtOTQ5Mi00MGQzLWEzNjYtMWMyNDBkMTkzMWNkXkEyXkFqcGc@._V1_.jpg",
         "width": 1086,
         "height": 1610
+      }
+    },
+    {
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt4154796/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2019,
+      "end_year": null,
+      "runtime_minutes": 186,
+      "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "value": 8.4,
+        "vote_count": 1510094
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
       }
     },
     {
@@ -85,32 +84,6 @@
       }
     },
     {
-      "id": "tt1633359",
-      "title": "The Toxic Avenger",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt1633359/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2023,
-      "end_year": null,
-      "runtime_minutes": 102,
-      "plot": "A horrible toxic accident transforms downtrodden janitor Winston Gooze into a new evolution of hero: the Toxic Avenger.",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Horror"
-      ],
-      "rating": {
-        "value": 5.8,
-        "vote_count": 20303
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_.jpg",
-        "width": 2268,
-        "height": 3204
-      }
-    },
-    {
       "id": "tt8836988",
       "title": "Avengement",
       "original_title": null,
@@ -128,7 +101,7 @@
       ],
       "rating": {
         "value": 6.6,
-        "vote_count": 24823
+        "vote_count": 25056
       },
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BZTQ1ZWNlODctNmI0MC00NmUzLWE4NTYtZjUwYzFlODYzMTgxXkEyXkFqcGc@._V1_.jpg",
@@ -137,27 +110,29 @@
       }
     },
     {
-      "id": "tt26548305",
-      "title": "The Avenger",
+      "id": "tt1633359",
+      "title": "The Toxic Avenger",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt26548305/",
+      "link": "https://www.imdb.com/title/tt1633359/",
       "type": "movie",
       "is_series": false,
-      "year": 2024,
+      "year": 2023,
       "end_year": null,
-      "runtime_minutes": 81,
-      "plot": "After Matt Hollis wife is attacked and his daughter is kidnapped, he recruits his ex-special forces buddy in a violent rescue mission.",
+      "runtime_minutes": 102,
+      "plot": "A horrible toxic accident transforms downtrodden janitor Winston Gooze into a new evolution of hero: the Toxic Avenger.",
       "genres": [
-        "Action"
+        "Action",
+        "Comedy",
+        "Horror"
       ],
       "rating": {
-        "value": 4.2,
-        "vote_count": 50
+        "value": 5.8,
+        "vote_count": 20878
       },
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNTlkZDQ3YzAtMTk2ZS00OGQxLTgzYzMtMjU5NmMyOWVkNDJkXkEyXkFqcGc@._V1_.jpg",
-        "width": 683,
-        "height": 1024
+        "link": "https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_.jpg",
+        "width": 2268,
+        "height": 3204
       }
     },
     {
@@ -177,13 +152,64 @@
         "Sci-Fi"
       ],
       "rating": {
-        "value": 8.5,
-        "vote_count": 21
+        "value": 7.5,
+        "vote_count": 23
       },
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BN2I4MDZkMDgtNTc2YS00NGE2LWEwZTAtOTlkYTVhYmNlOTNiXkEyXkFqcGc@._V1_.jpg",
         "width": 500,
         "height": 667
+      }
+    },
+    {
+      "id": "tt26699418",
+      "title": "Avengers: Doom of the World",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt26699418/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2023,
+      "end_year": null,
+      "runtime_minutes": 75,
+      "plot": null,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "value": 8.2,
+        "vote_count": 128
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BODI4N2JjOWItZGE1Ny00YzllLWFkMjMtZTVmNmFjMWUyYzJjXkEyXkFqcGc@._V1_.jpg",
+        "width": 853,
+        "height": 1280
+      }
+    },
+    {
+      "id": "tt28477867",
+      "title": "Lego Marvel Avengers: Code Red",
+      "original_title": "LEGO Marvel Avengers: Code Red",
+      "link": "https://www.imdb.com/title/tt28477867/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2023,
+      "end_year": null,
+      "runtime_minutes": 46,
+      "plot": "The Avengers meet a dangerous new foe quite unlike anything they've ever encountered before.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": {
+        "value": 5.5,
+        "vote_count": 1441
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BNWI2NWRjYzAtMGI4OS00NzgzLTk2MWEtNGI1ODI0ZWYzNjJjXkEyXkFqcGc@._V1_.jpg",
+        "width": 864,
+        "height": 1280
       }
     },
     {
@@ -210,57 +236,6 @@
       }
     },
     {
-      "id": "tt28477867",
-      "title": "Lego Marvel Avengers: Code Red",
-      "original_title": "LEGO Marvel Avengers: Code Red",
-      "link": "https://www.imdb.com/title/tt28477867/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2023,
-      "end_year": null,
-      "runtime_minutes": 46,
-      "plot": "The Avengers meet a dangerous new foe quite unlike anything they've ever encountered before.",
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure"
-      ],
-      "rating": {
-        "value": 5.5,
-        "vote_count": 1415
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNWI2NWRjYzAtMGI4OS00NzgzLTk2MWEtNGI1ODI0ZWYzNjJjXkEyXkFqcGc@._V1_.jpg",
-        "width": 864,
-        "height": 1280
-      }
-    },
-    {
-      "id": "tt26699418",
-      "title": "Avengers: Doom of the World",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt26699418/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2023,
-      "end_year": null,
-      "runtime_minutes": 75,
-      "plot": null,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "rating": {
-        "value": 8.1,
-        "vote_count": 116
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BODI4N2JjOWItZGE1Ny00YzllLWFkMjMtZTVmNmFjMWUyYzJjXkEyXkFqcGc@._V1_.jpg",
-        "width": 853,
-        "height": 1280
-      }
-    },
-    {
       "id": "tt5437956",
       "title": "The Avenging Silence",
       "original_title": null,
@@ -275,6 +250,391 @@
         "Action",
         "Crime",
         "Thriller"
+      ],
+      "rating": null,
+      "image": null
+    },
+    {
+      "id": "tt26548305",
+      "title": "The Avenger",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt26548305/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2024,
+      "end_year": null,
+      "runtime_minutes": 81,
+      "plot": "After Matt Hollis wife is attacked and his daughter is kidnapped, he recruits his ex-special forces buddy in a violent rescue mission.",
+      "genres": [
+        "Action"
+      ],
+      "rating": {
+        "value": 4.1,
+        "vote_count": 55
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BNTlkZDQ3YzAtMTk2ZS00OGQxLTgzYzMtMjU5NmMyOWVkNDJkXkEyXkFqcGc@._V1_.jpg",
+        "width": 683,
+        "height": 1024
+      }
+    },
+    {
+      "id": "tt48310712",
+      "title": "Doomsday Avengers",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt48310712/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "As an angry and vengeful Zeus threatens to destroy Earth, gods and goddesses from different pantheons are forced to put their differences aside, banning together to save the one place they all call home from the mightiest god in history.",
+      "genres": [
+        "Action"
+      ],
+      "rating": null,
+      "image": null
+    },
+    {
+      "id": "tt28602801",
+      "title": "Avenging Annie",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt28602801/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": 70,
+      "plot": "Annie is a skilled assassin driven by two things: loyalty and revenge. Her life's purpose is to avenge the death of her beloved parents and sister. On her journey of discovery, seeking the man responsible she knows as \"The Dragon\", she finds out her sister may be alive. She longs for the chance for familial connection, and fears for the life of the one family member she has left. Pushed into overdrive, she cleverly fights her way through the criminals sicced on her by The Dragon, who has an exorbitant amount of men protecting him. Annie does have a soft side - it's reserved for her right hand woman in work and friendship, her assistant Morgan, and her beloved dog. When her dog is taken, it's the last straw, and Annie will stop at nothing to find The Dragon and make him pay. Once confronted, she's faced with her worlds colliding - the familial connection she's ever so longed for, and her sworn enemy, may be one and the same.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMjkxZTQ0ZmUtOTMzYi00ODJlLWEyODEtMTE5NzViOWFiNTkyXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      }
+    },
+    {
+      "id": "tt10921118",
+      "title": "The Street Avenger",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt10921118/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2025,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "A girl loses her father to gang violence. Seeking revenge, she becomes a vigilante fighting rival gangs while evading police. But reality proves unlike comic books.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "rating": {
+        "value": 4.1,
+        "vote_count": 26
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BODg4M2ZiNmQtODhkYi00YjhhLWEwMWItOTJlYmYzNTliNDgxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 2100
+      }
+    },
+    {
+      "id": "tt38553295",
+      "title": "Avengers: The Scarlet Dynasty",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt38553295/",
+      "type": "tvMovie",
+      "is_series": false,
+      "year": 2026,
+      "end_year": null,
+      "runtime_minutes": 16,
+      "plot": null,
+      "genres": [
+        "Animation"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BZjQ0MWMyYWEtMjc3Yy00MjEyLWIyMDktMGI1NWNjYWRjZGYzXkEyXkFqcGc@._V1_.jpg",
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "tt8277574",
+      "title": "To Avenge",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt8277574/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "When a young woman is brutally assaulted and the justice system fails her, a curious stranger takes matters into her own hands.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BYmJlYjI3MjYtNzNiNy00MWNhLWI5OTgtZTVmMTE5ZWI3NTMzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3205,
+        "height": 3855
+      }
+    },
+    {
+      "id": "tt28105838",
+      "title": "Avengers Declassified: Secret Invasion",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt28105838/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2027,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "Black Widow and Jessica Jones are racing against time to stop an alien invasion and the resurgence of an old enemy.",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMjBmNWI2MTYtYmE4Zi00ZDczLTlhZmEtMGM3Y2I3NGQzY2RiXkEyXkFqcGc@._V1_.jpg",
+        "width": 2310,
+        "height": 3464
+      }
+    },
+    {
+      "id": "tt12981586",
+      "title": "Avenger Dogs Christmas",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt12981586/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2020,
+      "end_year": null,
+      "runtime_minutes": 67,
+      "plot": "Christmas is approaching, and reckless canine space adventurers Skyfetcher and Spaceslobber of the Avenger Dogs find themselves in the mire of relentless villain, the space tiger Inala who is intent on ruining Christmas. Will the Avenger Dogs rally together and keep Inala from destroying Christmas forever? Find out in the tail-wagging, heart-pounding canine epic, Avenger Dogs Christmas.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": {
+        "value": 4,
+        "vote_count": 18
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BZDdhZmY2ZTEtYjY1Yi00Y2EyLWFlOTEtYzFiNGU3OTg1YWU5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    {
+      "id": "tt9303032",
+      "title": "Avengers: Legacy",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt9303032/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2020,
+      "end_year": null,
+      "runtime_minutes": 87,
+      "plot": null,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BODgwYWVjMjktMGMxYy00NzkzLTg0MzktYTNkYjY1MTA2YTllXkEyXkFqcGc@._V1_.jpg",
+        "width": 1944,
+        "height": 2592
+      }
+    },
+    {
+      "id": "tt38681647",
+      "title": "Avenging Justice",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt38681647/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "When a known predator is found bound but alive and with a mysterious message, hardened Detectives Marie Cortez and Sal Gaurino know it's the work of a cold and calculating vigilante. As pressure mounts from all sides to stop him before he strikes again, Cortez and Guarino must soon decide what it means to avenge justice and which side of the law they're really on.",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BZGFkZmM2NTUtZjIyNy00ODQ3LWE4OWEtNDlmZTljODhmNDlhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1024,
+        "height": 1536
+      }
+    },
+    {
+      "id": "tt9724068",
+      "title": "Avenger Dogs",
+      "original_title": "Wonder Dogs",
+      "link": "https://www.imdb.com/title/tt9724068/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2019,
+      "end_year": null,
+      "runtime_minutes": 71,
+      "plot": "The Star Paws team is back and this time the entire galaxy is at stake! When an evil cat named Marlon Butterpaws makes plans to destroy the universe, it's up to an elite space dog team known as Star Paws to find and stop him.",
+      "genres": [
+        "Animation"
+      ],
+      "rating": {
+        "value": 2.1,
+        "vote_count": 175
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMzBhMzUwZDEtNjY2MS00ZjQ1LWE2ODMtZDRkM2VmODY2ZDVjXkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 820
+      }
+    },
+    {
+      "id": "tt21874166",
+      "title": "Avengement",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt21874166/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2021,
+      "end_year": null,
+      "runtime_minutes": 93,
+      "plot": "Political tensions surround the establishment of the West Factory in this action film set during the Chenghua period of the Ming Dynasty.",
+      "genres": [
+        "Action"
+      ],
+      "rating": {
+        "value": 6,
+        "vote_count": 27
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMjA4ZjgyZjUtNzQwNS00ZDQwLTljNWYtYzlmYTllMGEyYWJmXkEyXkFqcGc@._V1_.jpg",
+        "width": 421,
+        "height": 559
+      }
+    },
+    {
+      "id": "tt38390625",
+      "title": "Avengers: Race Against Time",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt38390625/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "The Avengers must outpace destiny itself in a race against time that will test their strength. Earth's mightiest heroes unite in a desperate mission to track down Thanos before he can claim the Infinity Stones.",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMWQwNmEwZTItYTIyYi00ZGYwLThlZjItZTI5OGQzMzFjMDgzXkEyXkFqcGc@._V1_.jpg",
+        "width": 5537,
+        "height": 8192
+      }
+    },
+    {
+      "id": "tt15554634",
+      "title": "Avengers: Age of Extinction",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt15554634/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2020,
+      "end_year": null,
+      "runtime_minutes": 85,
+      "plot": "The Avengers are trying to hunt for Ultron, but Ultron gets a deadly weapon from the Shredder and uses it on them. This leads to some avengers being captured and others on the run. Then the remaining avengers take the fight to Ultron",
+      "genres": [
+        "Adventure"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BNjNmOTI5YzMtNTZlNS00ZmI4LWEyYjItNTMxZDEwMjA0YmQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1999,
+        "height": 1135
+      }
+    },
+    {
+      "id": "tt10461918",
+      "title": "Roy Wood Jr.: The Avenging Ones",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt10461918/",
+      "type": "tvMovie",
+      "is_series": false,
+      "year": 2019,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": "A black superhero confronts white crime fighters about why they only fight evil that affects the world at large and won't help with problems that affect the black community.",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BM2M5ODdhOTgtNmI5MC00NWQ4LWJkYjAtZjVkYjc1MDU1YWY2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1082,
+        "height": 870
+      }
+    },
+    {
+      "id": "tt38353492",
+      "title": "Avenger",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt38353492/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Drama"
+      ],
+      "rating": null,
+      "image": null
+    },
+    {
+      "id": "tt19844018",
+      "title": "Avenged",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt19844018/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2021,
+      "end_year": null,
+      "runtime_minutes": 63,
+      "plot": "Psychology graduate student Jason's life is turned upside down after his brother Tim goes missing right after visiting him.",
+      "genres": [
+        "Drama"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BZTg5ZDRkMTktYjA3Mi00ZTFmLThkNzAtNDJiOWM2NTY1MzE3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1284,
+        "height": 1697
+      }
+    },
+    {
+      "id": "tt30997271",
+      "title": "Avengers",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt30997271/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2024,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Action"
       ],
       "rating": null,
       "image": null
@@ -304,197 +664,48 @@
       }
     },
     {
-      "id": "tt28105838",
-      "title": "Avengers Declassified: Secret Invasion",
+      "id": "tt12369756",
+      "title": "Avenger Dogs 2: Wonder Dogs",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt28105838/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2027,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "Black Widow and Jessica Jones are racing against time to stop an alien invasion and the resurgence of an old enemy.",
-      "genres": [
-        "Thriller"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMjBmNWI2MTYtYmE4Zi00ZDczLTlhZmEtMGM3Y2I3NGQzY2RiXkEyXkFqcGc@._V1_.jpg",
-        "width": 2310,
-        "height": 3464
-      }
-    },
-    {
-      "id": "tt10921118",
-      "title": "The Street Avenger",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt10921118/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2025,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "A girl loses her father to gang violence. Seeking revenge, she becomes a vigilante fighting rival gangs while evading police. But reality proves unlike comic books.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Crime"
-      ],
-      "rating": {
-        "value": 4.1,
-        "vote_count": 24
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BODg4M2ZiNmQtODhkYi00YjhhLWEwMWItOTJlYmYzNTliNDgxXkEyXkFqcGc@._V1_.jpg",
-        "width": 1200,
-        "height": 2100
-      }
-    },
-    {
-      "id": "tt9303032",
-      "title": "Avengers: Legacy",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt9303032/",
+      "link": "https://www.imdb.com/title/tt12369756/",
       "type": "movie",
       "is_series": false,
       "year": 2020,
       "end_year": null,
-      "runtime_minutes": 87,
-      "plot": null,
+      "runtime_minutes": 70,
+      "plot": "When evil panther Sharposky emerges to threaten the cosmos with a new doomsday device it's up to the Canine Intelligence Agency's best and brightest heroes, the Avenger Dogs, to save the the universe.",
       "genres": [
-        "Sci-Fi"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BODgwYWVjMjktMGMxYy00NzkzLTg0MzktYTNkYjY1MTA2YTllXkEyXkFqcGc@._V1_.jpg",
-        "width": 1944,
-        "height": 2592
-      }
-    },
-    {
-      "id": "tt38353492",
-      "title": "Avenger",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt38353492/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Drama"
-      ],
-      "rating": null,
-      "image": null
-    },
-    {
-      "id": "tt28602801",
-      "title": "Avenging Annie",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt28602801/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "Annie is a skilled assassin driven by two things: loyalty and revenge. Her life's purpose is to avenge the death of her beloved parents and sister. On her journey of discovery, seeking the man responsible she knows as \"The Dragon\", she finds out her sister may be alive. She longs for the chance for familial connection, and fears for the life of the one family member she has left. Pushed into overdrive, she cleverly fights her way through the criminals sicced on her by The Dragon, who has an exorbitant amount of men protecting him. Annie does have a soft side - it's reserved for her right hand woman in work and friendship, her assistant Morgan, and her beloved dog. When her dog is taken, it's the last straw, and Annie will stop at nothing to find The Dragon and make him pay. Once confronted, she's faced with her worlds colliding - the familial connection she's ever so longed for, and her sworn enemy, may be one and the same.",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMjkxZTQ0ZmUtOTMzYi00ODJlLWEyODEtMTE5NzViOWFiNTkyXkEyXkFqcGc@._V1_.jpg",
-        "width": 2000,
-        "height": 3000
-      }
-    },
-    {
-      "id": "tt9724068",
-      "title": "Avenger Dogs",
-      "original_title": "Wonder Dogs",
-      "link": "https://www.imdb.com/title/tt9724068/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2019,
-      "end_year": null,
-      "runtime_minutes": 71,
-      "plot": "The Star Paws team is back and this time the entire galaxy is at stake! When an evil cat named Marlon Butterpaws makes plans to destroy the universe, it's up to an elite space dog team known as Star Paws to find and stop him.",
-      "genres": [
-        "Animation"
+        "Animation",
+        "Comedy",
+        "Family"
       ],
       "rating": {
-        "value": 2.1,
-        "vote_count": 174
+        "value": 3.9,
+        "vote_count": 28
       },
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMzBhMzUwZDEtNjY2MS00ZjQ1LWE2ODMtZDRkM2VmODY2ZDVjXkEyXkFqcGc@._V1_.jpg",
-        "width": 600,
-        "height": 820
+        "link": "https://m.media-amazon.com/images/M/MV5BYTQ3OThkOTgtZTMzMC00MmVkLThhYzQtN2RiNjZlNTI4NDMzXkEyXkFqcGc@._V1_.jpg",
+        "width": 972,
+        "height": 1297
       }
     },
     {
-      "id": "tt15554634",
-      "title": "Avengers: Age of Extinction",
+      "id": "tt37329542",
+      "title": "Star Wars Avengeance",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt15554634/",
+      "link": "https://www.imdb.com/title/tt37329542/",
       "type": "movie",
       "is_series": false,
-      "year": 2020,
+      "year": 2024,
       "end_year": null,
-      "runtime_minutes": 85,
-      "plot": "The Avengers are trying to hunt for Ultron, but Ultron gets a deadly weapon from the Shredder and uses it on them. This leads to some avengers being captured and others on the run. Then the remaining avengers take the fight to Ultron",
-      "genres": [
-        "Adventure"
-      ],
+      "runtime_minutes": 63,
+      "plot": "After the battle of the Siths. Joseph Skywalker still remains finishing his quest to become a Jedi grandmaster. He finds a mysterious gem and it brings Revilo and others back to life. Mof Pogus, Empire Leumas, and Revilo are coming back.",
+      "genres": [],
       "rating": null,
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNjNmOTI5YzMtNTZlNS00ZmI4LWEyYjItNTMxZDEwMjA0YmQ1XkEyXkFqcGc@._V1_.jpg",
-        "width": 1999,
-        "height": 1135
-      }
-    },
-    {
-      "id": "tt38681647",
-      "title": "Avenging Justice",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt38681647/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "When a known predator is found bound but alive and with a mysterious message, hardened Detectives Marie Cortez and Sal Gaurino know it's the work of a cold and calculating vigilante. As pressure mounts from all sides to stop him before he strikes again, Cortez and Guarino must soon decide what it means to avenge justice and which side of the law they're really on.",
-      "genres": [
-        "Thriller"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZGFkZmM2NTUtZjIyNy00ODQ3LWE4OWEtNDlmZTljODhmNDlhXkEyXkFqcGc@._V1_.jpg",
-        "width": 1024,
-        "height": 1536
-      }
-    },
-    {
-      "id": "tt38553295",
-      "title": "Avengers: The Scarlet Dynasty",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt38553295/",
-      "type": "tvMovie",
-      "is_series": false,
-      "year": 2026,
-      "end_year": null,
-      "runtime_minutes": 16,
-      "plot": null,
-      "genres": [
-        "Animation"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZjQ0MWMyYWEtMjc3Yy00MjEyLWIyMDktMGI1NWNjYWRjZGYzXkEyXkFqcGc@._V1_.jpg",
-        "width": 2048,
-        "height": 2048
+        "link": "https://m.media-amazon.com/images/M/MV5BN2Q2ZTE4OTEtMTlkNC00ODY0LWJhOWItYWI0ZWJmODc5NDA2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1170,
+        "height": 541
       }
     },
     {
@@ -521,6 +732,191 @@
       }
     },
     {
+      "id": "tt10197932",
+      "title": "Spanish Avengers",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt10197932/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BZWFjNjEyMzEtZWRmZi00ZmI1LWIzYzUtNjdkNzZlNDA2ZDBlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1125,
+        "height": 1625
+      }
+    },
+    {
+      "id": "tt21950078",
+      "title": "The Avenging Angel",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt21950078/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BNmRiY2JjNTEtZGVlMy00YWMzLTgwMGUtOGVmNGRmMTRjNDJlXkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1200
+      }
+    },
+    {
+      "id": "tt18183576",
+      "title": "Avengers: Rise of the Villains",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt18183576/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2022,
+      "end_year": null,
+      "runtime_minutes": 57,
+      "plot": null,
+      "genres": [
+        "Action"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BM2Q5ODc0ZTQtODA4NC00NTgwLTg4MzctZTcxMWVmMGFlZGM5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "id": "tt14955534",
+      "title": "Mstitel",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt14955534/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2021,
+      "end_year": null,
+      "runtime_minutes": 93,
+      "plot": null,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": {
+        "value": 4.7,
+        "vote_count": 21
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BNTA5MTJhMmMtNTVhNS00YmYwLWI2YjgtZTVjMTdmZGY0YzBhXkEyXkFqcGc@._V1_.jpg",
+        "width": 960,
+        "height": 1360
+      }
+    },
+    {
+      "id": "tt3078914",
+      "title": "The Avenging Eagle",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt3078914/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": null,
+      "image": null
+    },
+    {
+      "id": "tt10364048",
+      "title": "Avenging Victorio",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt10364048/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Drama"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMmQ4YTQxODItNzM0NS00NjAzLThmYTUtYTQyYjY0ODQ1Y2NkXkEyXkFqcGc@._V1_.jpg",
+        "width": 652,
+        "height": 980
+      }
+    },
+    {
+      "id": "tt1472588",
+      "title": "Vegas Avengers",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt1472588/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Action"
+      ],
+      "rating": null,
+      "image": null
+    },
+    {
+      "id": "tt3382178",
+      "title": "Avenged",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt3382178/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2020,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Thriller"
+      ],
+      "rating": null,
+      "image": null
+    },
+    {
+      "id": "tt28179483",
+      "title": "Avenging Angel",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt28179483/",
+      "type": "movie",
+      "is_series": false,
+      "year": null,
+      "end_year": null,
+      "runtime_minutes": null,
+      "plot": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "rating": null,
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMDg0MjBlMmUtMDg1Mi00MTVmLWJlOTktODFjMGJiMjY1NWYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    },
+    {
       "id": "tt37137799",
       "title": "The Avengement",
       "original_title": null,
@@ -538,28 +934,6 @@
       ],
       "rating": null,
       "image": null
-    },
-    {
-      "id": "tt8277574",
-      "title": "To Avenge",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt8277574/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "When a young woman is brutally assaulted and the justice system fails her, a curious stranger takes matters into her own hands.",
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BYmJlYjI3MjYtNzNiNy00MWNhLWI5OTgtZTVmMTE5ZWI3NTMzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3205,
-        "height": 3855
-      }
     },
     {
       "id": "tt10974826",
@@ -596,331 +970,6 @@
       "image": null
     },
     {
-      "id": "tt18183576",
-      "title": "Avengers: Rise of the Villains",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt18183576/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2022,
-      "end_year": null,
-      "runtime_minutes": 57,
-      "plot": null,
-      "genres": [
-        "Action"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BM2Q5ODc0ZTQtODA4NC00NTgwLTg4MzctZTcxMWVmMGFlZGM5XkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1080
-      }
-    },
-    {
-      "id": "tt30997271",
-      "title": "Avengers",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt30997271/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2024,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Action"
-      ],
-      "rating": null,
-      "image": null
-    },
-    {
-      "id": "tt21874166",
-      "title": "Avengement",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt21874166/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2021,
-      "end_year": null,
-      "runtime_minutes": 93,
-      "plot": "Political tensions surround the establishment of the West Factory in this action film set during the Chenghua period of the Ming Dynasty.",
-      "genres": [
-        "Action"
-      ],
-      "rating": {
-        "value": 6,
-        "vote_count": 27
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMjA4ZjgyZjUtNzQwNS00ZDQwLTljNWYtYzlmYTllMGEyYWJmXkEyXkFqcGc@._V1_.jpg",
-        "width": 421,
-        "height": 559
-      }
-    },
-    {
-      "id": "tt21950078",
-      "title": "The Avenging Angel",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt21950078/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNmRiY2JjNTEtZGVlMy00YWMzLTgwMGUtOGVmNGRmMTRjNDJlXkEyXkFqcGc@._V1_.jpg",
-        "width": 800,
-        "height": 1200
-      }
-    },
-    {
-      "id": "tt38390625",
-      "title": "Avengers: Race Against Time",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt38390625/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "The Avengers must outpace destiny itself in a race against time that will test their strength. Earth's mightiest heroes unite in a desperate mission to track down Thanos before he can claim the Infinity Stones.",
-      "genres": [
-        "Sci-Fi"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMWQwNmEwZTItYTIyYi00ZGYwLThlZjItZTI5OGQzMzFjMDgzXkEyXkFqcGc@._V1_.jpg",
-        "width": 5537,
-        "height": 8192
-      }
-    },
-    {
-      "id": "tt12369756",
-      "title": "Avenger Dogs 2: Wonder Dogs",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt12369756/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2020,
-      "end_year": null,
-      "runtime_minutes": 70,
-      "plot": "When evil panther Sharposky emerges to threaten the cosmos with a new doomsday device it's up to the Canine Intelligence Agency's best and brightest heroes, the Avenger Dogs, to save the the universe.",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "rating": {
-        "value": 3.9,
-        "vote_count": 28
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BYTQ3OThkOTgtZTMzMC00MmVkLThhYzQtN2RiNjZlNTI4NDMzXkEyXkFqcGc@._V1_.jpg",
-        "width": 972,
-        "height": 1297
-      }
-    },
-    {
-      "id": "tt21302828",
-      "title": "Avenger",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt21302828/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2021,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Action",
-        "Crime"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMTNjYWUwZDgtOWQxMS00MGE4LTg0N2UtYWNiNWFiYzk3MWZjXkEyXkFqcGc@._V1_.jpg",
-        "width": 715,
-        "height": 883
-      }
-    },
-    {
-      "id": "tt28179483",
-      "title": "Avenging Angel",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt28179483/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Thriller"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMDg0MjBlMmUtMDg1Mi00MTVmLWJlOTktODFjMGJiMjY1NWYxXkEyXkFqcGc@._V1_.jpg",
-        "width": 4050,
-        "height": 6000
-      }
-    },
-    {
-      "id": "tt10461918",
-      "title": "Roy Wood Jr.: The Avenging Ones",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt10461918/",
-      "type": "tvMovie",
-      "is_series": false,
-      "year": 2019,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": "A black superhero confronts white crime fighters about why they only fight evil that affects the world at large and won't help with problems that affect the black community.",
-      "genres": [
-        "Comedy"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BM2M5ODdhOTgtNmI5MC00NWQ4LWJkYjAtZjVkYjc1MDU1YWY2XkEyXkFqcGc@._V1_.jpg",
-        "width": 1082,
-        "height": 870
-      }
-    },
-    {
-      "id": "tt12981586",
-      "title": "Avenger Dogs Christmas",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt12981586/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2020,
-      "end_year": null,
-      "runtime_minutes": 67,
-      "plot": "Christmas is approaching, and reckless canine space adventurers Skyfetcher and Spaceslobber of the Avenger Dogs find themselves in the mire of relentless villain, the space tiger Inala who is intent on ruining Christmas. Will the Avenger Dogs rally together and keep Inala from destroying Christmas forever? Find out in the tail-wagging, heart-pounding canine epic, Avenger Dogs Christmas.",
-      "genres": [
-        "Animation"
-      ],
-      "rating": {
-        "value": 4.3,
-        "vote_count": 17
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZDdhZmY2ZTEtYjY1Yi00Y2EyLWFlOTEtYzFiNGU3OTg1YWU5XkEyXkFqcGc@._V1_.jpg",
-        "width": 1200,
-        "height": 1600
-      }
-    },
-    {
-      "id": "tt3078914",
-      "title": "The Avenging Eagle",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt3078914/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
-      "rating": null,
-      "image": null
-    },
-    {
-      "id": "tt14955534",
-      "title": "Mstitel",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt14955534/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2021,
-      "end_year": null,
-      "runtime_minutes": 93,
-      "plot": null,
-      "genres": [
-        "Comedy"
-      ],
-      "rating": {
-        "value": 4.7,
-        "vote_count": 21
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNTA5MTJhMmMtNTVhNS00YmYwLWI2YjgtZTVjMTdmZGY0YzBhXkEyXkFqcGc@._V1_.jpg",
-        "width": 960,
-        "height": 1360
-      }
-    },
-    {
-      "id": "tt37329542",
-      "title": "Star Wars Avengeance",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt37329542/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2024,
-      "end_year": null,
-      "runtime_minutes": 63,
-      "plot": "After the battle of the Siths. Joseph Skywalker still remains finishing his quest to become a Jedi grandmaster. He finds a mysterious gem and it brings Revilo and others back to life. Mof Pogus, Empire Leumas, and Revilo are coming back.",
-      "genres": [],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BN2Q2ZTE4OTEtMTlkNC00ODY0LWJhOWItYWI0ZWJmODc5NDA2XkEyXkFqcGc@._V1_.jpg",
-        "width": 1170,
-        "height": 541
-      }
-    },
-    {
-      "id": "tt19844018",
-      "title": "Avenged",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt19844018/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2021,
-      "end_year": null,
-      "runtime_minutes": 63,
-      "plot": "Psychology graduate student Jason's life is turned upside down after his brother Tim goes missing right after visiting him.",
-      "genres": [
-        "Drama"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZTg5ZDRkMTktYjA3Mi00ZTFmLThkNzAtNDJiOWM2NTY1MzE3XkEyXkFqcGc@._V1_.jpg",
-        "width": 1284,
-        "height": 1697
-      }
-    },
-    {
-      "id": "tt10197932",
-      "title": "Spanish Avengers",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt10197932/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Comedy"
-      ],
-      "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZWFjNjEyMzEtZWRmZi00ZmI1LWIzYzUtNjdkNzZlNDA2ZDBlXkEyXkFqcGc@._V1_.jpg",
-        "width": 1125,
-        "height": 1625
-      }
-    },
-    {
       "id": "tt11193602",
       "title": "Avenger Girls",
       "original_title": null,
@@ -940,23 +989,6 @@
         "width": 4809,
         "height": 3847
       }
-    },
-    {
-      "id": "tt3382178",
-      "title": "Avenged",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt3382178/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2020,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Thriller"
-      ],
-      "rating": null,
-      "image": null
     },
     {
       "id": "tt12575730",
@@ -980,10 +1012,10 @@
       }
     },
     {
-      "id": "tt14443560",
-      "title": "Avenging Mighty Pedro",
+      "id": "tt12598682",
+      "title": "Avenging Shadows",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt14443560/",
+      "link": "https://www.imdb.com/title/tt12598682/",
       "type": "movie",
       "is_series": false,
       "year": null,
@@ -991,27 +1023,14 @@
       "runtime_minutes": null,
       "plot": null,
       "genres": [
-        "Drama"
+        "Thriller"
       ],
       "rating": null,
-      "image": null
-    },
-    {
-      "id": "tt16985306",
-      "title": "The Avengers could never win",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt16985306/",
-      "type": "tvMovie",
-      "is_series": false,
-      "year": 2020,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Fantasy"
-      ],
-      "rating": null,
-      "image": null
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BZThkYmExMWQtNDQzOS00YzVhLWE2MTEtOGRlMzY5NTE5NjcxXkEyXkFqcGc@._V1_.jpg",
+        "width": 628,
+        "height": 876
+      }
     },
     {
       "id": "tt32636122",
@@ -1031,27 +1050,10 @@
       "image": null
     },
     {
-      "id": "tt32466530",
-      "title": "The Avenging Priest",
+      "id": "tt14443560",
+      "title": "Avenging Mighty Pedro",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt32466530/",
-      "type": "movie",
-      "is_series": false,
-      "year": null,
-      "end_year": null,
-      "runtime_minutes": null,
-      "plot": null,
-      "genres": [
-        "Thriller"
-      ],
-      "rating": null,
-      "image": null
-    },
-    {
-      "id": "tt10364048",
-      "title": "Avenging Victorio",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt10364048/",
+      "link": "https://www.imdb.com/title/tt14443560/",
       "type": "movie",
       "is_series": false,
       "year": null,
@@ -1062,31 +1064,28 @@
         "Drama"
       ],
       "rating": null,
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMmQ4YTQxODItNzM0NS00NjAzLThmYTUtYTQyYjY0ODQ1Y2NkXkEyXkFqcGc@._V1_.jpg",
-        "width": 652,
-        "height": 980
-      }
+      "image": null
     },
     {
-      "id": "tt12598682",
-      "title": "Avenging Shadows",
+      "id": "tt21302828",
+      "title": "Avenger",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt12598682/",
+      "link": "https://www.imdb.com/title/tt21302828/",
       "type": "movie",
       "is_series": false,
-      "year": null,
+      "year": 2021,
       "end_year": null,
       "runtime_minutes": null,
       "plot": null,
       "genres": [
-        "Thriller"
+        "Action",
+        "Crime"
       ],
       "rating": null,
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZThkYmExMWQtNDQzOS00YzVhLWE2MTEtOGRlMzY5NTE5NjcxXkEyXkFqcGc@._V1_.jpg",
-        "width": 628,
-        "height": 876
+        "link": "https://m.media-amazon.com/images/M/MV5BMTNjYWUwZDgtOWQxMS00MGE4LTg0N2UtYWNiNWFiYzk3MWZjXkEyXkFqcGc@._V1_.jpg",
+        "width": 715,
+        "height": 883
       }
     }
   ]

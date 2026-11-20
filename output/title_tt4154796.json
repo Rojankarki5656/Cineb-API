@@ -9,17 +9,18 @@
   "year": 2019,
   "end_year": null,
   "release_date": "2019-04-26",
-  "runtime_minutes": 181,
+  "runtime_minutes": 186,
   "certificate": "PG-13",
   "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
   "genres": [
     "Action",
-    "Adventure"
+    "Adventure",
+    "Sci-Fi"
   ],
   "rating": {
     "value": 8.4,
-    "vote_count": 1493713,
-    "top_rank": 74
+    "vote_count": 1510094,
+    "top_rank": 73
   },
   "metascore": {
     "score": 78,
@@ -388,7 +389,7 @@
       }
     }
   ],
-  "total_cast": 207,
+  "total_cast": 215,
   "trailer": {
     "id": "vi3769027097",
     "title": "'Avengers: Endgame' | \"Encore\" Trailer",
@@ -397,8 +398,8 @@
     "thumbnail_link": "https://m.media-amazon.com/images/M/MV5BZjEyYTQ4NzAtZDY3Mi00ZDIxLTk5YmUtYmNlM2UzM2JkNDgyXkEyXkFqcGdeQWFybm8@._V1_.jpg"
   },
   "image": {
-    "link": "https://m.media-amazon.com/images/M/MV5BMzgwNTUzMTM0Nl5BMl5BanBnXkFtZTgwNTU0MTA4NzM@._V1_.jpg",
-    "width": 1402,
+    "link": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "width": 1382,
     "height": 2048
   },
   "box_office": {
@@ -413,7 +414,7 @@
       "theater_count": 4662
     },
     "gross_worldwide": {
-      "amount": 2889046398,
+      "amount": 2942661253,
       "currency": "USD"
     }
   },
@@ -437,7 +438,7 @@
       ],
       "rating": {
         "value": 8.4,
-        "vote_count": 1414019
+        "vote_count": 1425672
       },
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
@@ -446,106 +447,28 @@
       }
     },
     {
-      "id": "tt3498820",
-      "title": "Captain America: Civil War",
+      "id": "tt0848228",
+      "title": "The Avengers",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt3498820/",
+      "link": "https://www.imdb.com/title/tt0848228/",
       "type": "movie",
       "is_series": false,
-      "year": 2016,
+      "year": 2012,
       "end_year": null,
-      "runtime_minutes": 147,
-      "plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+      "runtime_minutes": 143,
+      "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
       "genres": [
         "Action",
         "Sci-Fi"
       ],
       "rating": {
-        "value": 7.8,
-        "vote_count": 951497
+        "value": 8,
+        "vote_count": 1593191
       },
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
-        "width": 1382,
-        "height": 2048
-      }
-    },
-    {
-      "id": "tt1843866",
-      "title": "Captain America: The Winter Soldier",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt1843866/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2014,
-      "end_year": null,
-      "runtime_minutes": 136,
-      "plot": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "value": 7.7,
-        "vote_count": 991637
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_.jpg",
-        "width": 1688,
-        "height": 2500
-      }
-    },
-    {
-      "id": "tt10648342",
-      "title": "Thor: Love and Thunder",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt10648342/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2022,
-      "end_year": null,
-      "runtime_minutes": 118,
-      "plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "rating": {
-        "value": 6.1,
-        "vote_count": 475774
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_.jpg",
-        "width": 1688,
-        "height": 2500
-      }
-    },
-    {
-      "id": "tt3896198",
-      "title": "Guardians of the Galaxy: Vol. 2",
-      "original_title": "Guardians of the Galaxy Vol.2",
-      "link": "https://www.imdb.com/title/tt3896198/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2017,
-      "end_year": null,
-      "runtime_minutes": 136,
-      "plot": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the ambitious celestial being Ego.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "rating": {
-        "value": 7.6,
-        "vote_count": 848400
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_.jpg",
-        "width": 509,
-        "height": 755
+        "link": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1184
       }
     },
     {
@@ -566,7 +489,7 @@
       ],
       "rating": {
         "value": 7.3,
-        "vote_count": 1024397
+        "vote_count": 1031608
       },
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_.jpg",
@@ -575,55 +498,54 @@
       }
     },
     {
-      "id": "tt6791350",
-      "title": "Guardians of the Galaxy Vol. 3",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt6791350/",
+      "link": "https://www.imdb.com/title/tt10872600/",
       "type": "movie",
       "is_series": false,
-      "year": 2023,
+      "year": 2021,
       "end_year": null,
-      "runtime_minutes": 150,
-      "plot": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+      "runtime_minutes": 148,
+      "plot": "Peter Parker turns to Doctor Strange after his identity destroys the life he knows, but a magical mistake draws powerful outsiders into his world and forces him to confront what being Spider Man really means.",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy"
+        "Fantasy"
       ],
       "rating": {
-        "value": 7.9,
-        "vote_count": 489216
+        "value": 8.1,
+        "vote_count": 1089734
       },
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_.jpg",
-        "width": 886,
-        "height": 1312
+        "link": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1400,
+        "height": 2100
       }
     },
     {
-      "id": "tt2015381",
-      "title": "Guardians of the Galaxy",
+      "id": "tt3498820",
+      "title": "Captain America: Civil War",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt2015381/",
+      "link": "https://www.imdb.com/title/tt3498820/",
       "type": "movie",
       "is_series": false,
-      "year": 2014,
+      "year": 2016,
       "end_year": null,
-      "runtime_minutes": 121,
-      "plot": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+      "runtime_minutes": 147,
+      "plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
       "genres": [
         "Action",
-        "Adventure",
-        "Comedy"
+        "Sci-Fi"
       ],
       "rating": {
-        "value": 8,
-        "vote_count": 1386912
+        "value": 7.8,
+        "vote_count": 958069
       },
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_.jpg",
-        "width": 1012,
-        "height": 1500
+        "link": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
       }
     },
     {
@@ -644,38 +566,12 @@
       ],
       "rating": {
         "value": 7.9,
-        "vote_count": 915152
+        "vote_count": 921354
       },
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
         "width": 1382,
         "height": 2048
-      }
-    },
-    {
-      "id": "tt0458339",
-      "title": "Captain America: The First Avenger",
-      "original_title": null,
-      "link": "https://www.imdb.com/title/tt0458339/",
-      "type": "movie",
-      "is_series": false,
-      "year": 2011,
-      "end_year": null,
-      "runtime_minutes": 124,
-      "plot": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "rating": {
-        "value": 6.9,
-        "vote_count": 989354
-      },
-      "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_.jpg",
-        "width": 1125,
-        "height": 1600
       }
     },
     {
@@ -696,7 +592,7 @@
       ],
       "rating": {
         "value": 7.3,
-        "vote_count": 677962
+        "vote_count": 685375
       },
       "image": {
         "link": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
@@ -705,28 +601,128 @@
       }
     },
     {
-      "id": "tt1228705",
-      "title": "Iron Man 2",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
       "original_title": null,
-      "link": "https://www.imdb.com/title/tt1228705/",
+      "link": "https://www.imdb.com/title/tt0468569/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2008,
+      "end_year": null,
+      "runtime_minutes": 152,
+      "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "value": 9.1,
+        "vote_count": 3252386
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+        "width": 1383,
+        "height": 2048
+      }
+    },
+    {
+      "id": "tt1345836",
+      "title": "The Dark Knight Rises",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt1345836/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2012,
+      "end_year": null,
+      "runtime_minutes": 164,
+      "plot": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": {
+        "value": 8.4,
+        "vote_count": 2039681
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+        "width": 486,
+        "height": 720
+      }
+    },
+    {
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt0816692/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2014,
+      "end_year": null,
+      "runtime_minutes": 169,
+      "plot": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": {
+        "value": 8.7,
+        "vote_count": 2636635
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2430,
+        "height": 3600
+      }
+    },
+    {
+      "id": "tt0372784",
+      "title": "Batman Begins",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt0372784/",
+      "type": "movie",
+      "is_series": false,
+      "year": 2005,
+      "end_year": null,
+      "runtime_minutes": 140,
+      "plot": "After witnessing his parents' death, billionaire Bruce Wayne learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+      "genres": [
+        "Crime"
+      ],
+      "rating": {
+        "value": 8.2,
+        "vote_count": 1755366
+      },
+      "image": {
+        "link": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      }
+    },
+    {
+      "id": "tt1375666",
+      "title": "Inception",
+      "original_title": null,
+      "link": "https://www.imdb.com/title/tt1375666/",
       "type": "movie",
       "is_series": false,
       "year": 2010,
       "end_year": null,
-      "runtime_minutes": 124,
-      "plot": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful madman with ties to his father's legacy.",
+      "runtime_minutes": 148,
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
       "genres": [
-        "Action",
-        "Sci-Fi"
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
       ],
       "rating": {
-        "value": 6.9,
-        "vote_count": 959528
+        "value": 8.8,
+        "vote_count": 2891387
       },
       "image": {
-        "link": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_.jpg",
-        "width": 1200,
-        "height": 1768
+        "link": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "width": 700,
+        "height": 1037
       }
     }
   ],

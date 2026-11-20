@@ -114,9 +114,9 @@ def person_details_route():
 
 def chart_route(kind):
     def handler():
-        return call(f"charts/{kind}", lambda: get_chart(kind, q("country")))
+        return call(f"charts/{kind}", lambda: get_chart(
+            kind, country=q("country"), limit=q("limit")))
     return handler
-
 
 ENDPOINTS = [
     ("/title/details", title_details_route),

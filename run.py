@@ -31,5 +31,3 @@ if __name__ == "__main__":
 
     # all 250 in one call
     save("chart_top_movies.json", get_chart("top-movies"))
-
-
